@@ -1,0 +1,25 @@
+.checkout-columns {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.checkout-left {
+  flex: 1;
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.checkout-right {
+  flex: 1;
+  background: #ffffff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+.checkout-total {
+  font-weight: bold;
+  margin-top: 1rem;
+}

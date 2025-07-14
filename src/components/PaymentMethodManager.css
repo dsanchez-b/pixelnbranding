@@ -1,0 +1,19 @@
+.payment-method-manager {
+  border-top: 1px solid #ccc;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.payment-method-manager input {
+  margin-right: 0.5rem;
+  padding: 6px;
+}
+
+.payment-method-manager button {
+  padding: 6px 12px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,75 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #EBE5DC;
+  padding: 0.5rem 1rem;
+  color: rgb(54, 51, 51);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-logo img {
+  height: 140px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cart-icon-link {
+  position: relative;
+  font-size: 1.5rem;
+  color: #363434;
+}
+
+.cart-badge {
+  position: absolute;
+  top: -6px;
+  right: -10px;
+  background: red;
+  color: #363434;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.search-input {
+  padding: 0.3rem 0.5rem;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+}
+
+.user-email {
+  font-weight: 600;
+  margin-left: 1rem;
+}
+
+.btn-logout {
+  background-color: #ef4444;
+  border: none;
+  color: #363434;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-left: 1rem;
+}
+
+.nav-link {
+  color: #363434;
+  text-decoration: none;
+  font-weight: 600;
+  margin-left: 1rem;
+}
