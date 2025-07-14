@@ -21,13 +21,13 @@ const initialProducts = [
     id: 2,
     name: "Playera con logo",
     price: 250,
-    image: "/images/playera-blanca.png",
+    image: "/images/playeras/playera-blanca.png",
     category: "camisetas",
     description: "Playera de algodón con el logo de la empresa",
     colors: {
       blanco: "/images/playera-blanca.png",
-      azul: "/images/playera-azul.png",
-      gris: "/images/playera-gris.png"
+      azul: "/images/playeras/playera-azul.png",
+      gris: "/images/playeras/playera-gris.png"
     }
   },
   {
@@ -38,9 +38,9 @@ const initialProducts = [
     category: "termos",
     description: "Termo personalizado con el logo de tu empresa",
     colors: {
-      blanco: "/images/termo-blanco.png",
-      negro: "/images/termo-negro.png",
-      rojo: "/images/termo-rojo.png"
+      blanco: "/images/Termos/termo-blanco.png",
+      negro: "/images/Termos/termo-negro.png",
+      rojo: "/images/Termos/termo-rojo.png"
     }
   },
   {
