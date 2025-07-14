@@ -38,9 +38,9 @@ const initialProducts = [
     category: "termos",
     description: "Termo personalizado con el logo de tu empresa",
     colors: {
-      blanco: "/images/termos-blanco.jpg",
-      negro: "/images/termos-negro.jpg",
-      rojo: "/images/termos-rojo.jpg"
+      blanco: "/images/termo-blanco.png",
+      negro: "/images/termo-negro.png",
+      rojo: "/images/termo-rojo.png"
     }
   },
   {
