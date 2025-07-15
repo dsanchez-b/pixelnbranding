@@ -25,7 +25,7 @@ const initialProducts = [
     category: "camisetas",
     description: "Playera de algodón con el logo de la empresa",
     colors: {
-      blanco: "/images/playera-blanca.png",
+      blanco: "/images/playeras/playera-blanca.png",
       azul: "/images/playeras/playera-azul.png",
       gris: "/images/playeras/playera-gris.png"
     }
@@ -34,7 +34,7 @@ const initialProducts = [
     id: 3,
     name: "Termo corporativo",
     price: 250,
-    image: "/images/termos-blanco.png",
+    image: "/images/termos/termos-blanco.png",
     category: "termos",
     description: "Termo personalizado con el logo de tu empresa",
     colors: {
